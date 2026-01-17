@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.title {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.bg_box {
+    display: inline-block;
+    color: black;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: red;
+}
